@@ -1,4 +1,4 @@
-# Sensivility-of-mouse
+# Sensitivity-of-mouse
 Una sensibilidad para la calculadora y el juego
 
 sensivilidad especial
